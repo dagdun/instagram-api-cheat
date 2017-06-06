@@ -1,0 +1,29 @@
+.img-item {
+	float: left;
+	position: relative;
+	margin-right: 5px;
+	height: 250px;
+}
+
+.img-item img {
+	height: 200px;
+	border-radius: 15px;
+}
+
+.fa-play {
+	position: absolute;
+	top: 30px;
+	left: 15px;
+	color: #fff;
+}
+
+.paging {
+	clear: both;
+	width: 100%;
+}
+
+.small-profile {
+	width: 30px;
+	height: 30px;
+    border-radius: 15px;
+}

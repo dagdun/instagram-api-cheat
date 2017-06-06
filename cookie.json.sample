@@ -1,0 +1,8 @@
+{
+  "Cookie": "<YOUR COOKIE>",
+  "Accept-Encoding": "gzip, deflate, sdch, br",
+  "Connection": "keep-alive",
+  "X-CSRFToken": "<YOUR CSRF (YOU CAN FIND IN YOUR COOKIE)>",
+  "X-Instagram-AJAX": "1",
+  "X-Requested-With": "XMLHttpRequest"
+}
